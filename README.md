@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alberto Morgante Medina (alknopfler)</h1>
 <h3 align="center">I'm an engineer passionate about cloud, development and new technologies. I'm always looking for new challenges in order to improve myself everyday!!!</h3>
+- 👨‍ I'm working as a Principal Software Engineer at @Red Hat 
 
 - 👨‍💻 All of my projects are available at [https://github.com/alknopfler](https://github.com/alknopfler)
 
 - 📝 I regularly write articles on: [https://alknopfler.github.io](https://alknopfler.github.io)
 
-- 📫 How to reach me: **mailto:alknopfler@gmail.com**
+- 📫 How to reach me: **alknopfler@gmail.com**
 
 - ⚡ Hobbies: **Hockey (ice, inline) and Music**
 
