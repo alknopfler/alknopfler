@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **alknopfler@gmail.com**
 
+- 📝 My Resume online (CV): **[Alberto Morgante Medina - Resume - CV](https://github.com/alknopfler/alknopfler/blob/master/resume.md)**
+
 - ⚡ Hobbies: **Hockey (ice, inline) and Music**
 
 <h3 align="left">Connect with me:</h3>
