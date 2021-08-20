@@ -252,8 +252,9 @@ Computer Science Engineering Degree, System Administration · (2003 - 2006)
 - Switching & Routing Enterasys Certification
 
 ## **Publications**
-- Open source is a cultural change
-- Alexa Skill - Noticias de Móstoles
-- BBVA Caso de éxito: Openstack Day Latam
-- Design your own Home Alarm System using Go
-- Alexa Skill - Profesor Guitarra- 
+- [Open source is a cultural change](https://bbvaopen4u.com/en/actualidad/open-source-cultural-change)
+- [Alexa Skill - Noticias de Móstoles](https://www.amazon.es/alknopfler-Noticias-de-M%C3%B3stoles/dp/B07MPVTH1S)
+- [BBVA Caso de éxito: Openstack Day Latam](https://www.linkedin.com/in/albertomorgante/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABAi8N4B-_DrCZSAmVVSgSAsidg9YLC-UJQ,1500321618263)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBt8XHI7BTeK%2FejnAVD2tLA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+- [BBVA Openstack Summit Barcelona 2016](https://www.youtube.com/watch?v=QyGHZ2HCwqY)
+- [Design your own Home Alarm System using Go](https://github.com/alknopfler/alkalarm/wiki)
+- [Alexa Skill - Profesor Guitarra](https://www.amazon.es/alknopfler-Profesor-de-Guitarra/dp/B07MSBRRWR/ref=cm_cr_arp_d_product_top?ie=UTF8) 
