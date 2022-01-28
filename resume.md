@@ -1,6 +1,6 @@
 # **Alberto Morgante Medina**
 ### **Principal Software Engineer at Red Hat**
-#### **+34636129804** - **alknopfler@gmail.com** - **Location: Madrid(Spain)**
+#### **alknopfler@gmail.com** - **Location: Madrid(Spain)**
 #### **[My Blog](https://alknopfler.github.io) - [Linkedin](https://www.linkedin.com/in/albertomorgante/) - [Github](https://github.com/alknopfler)**
 ## **Summary**
 
