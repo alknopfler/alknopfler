@@ -11,7 +11,7 @@
 
 - 📝 My Resume online (CV): **[Alberto Morgante Medina - Resume - CV](https://github.com/alknopfler/alknopfler/blob/master/resume.md)**
 
-- ⚡ Hobbies: **Hockey (ice, inline) and Music**
+- ⚡ Hobbies: **Hockey (ice, inline) and Play Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
