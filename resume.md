@@ -38,7 +38,7 @@ Rancher, CoreOS, Sdwan Nuage, SDN, Google Cloud, Amazon
 Cloud Service AWS, Mesos, kafka cluster, Hadoop.
 * **Devops**: Jenkins, Git, gitlab ci, Ansible, Terraform, Puppet, Chef,
 Consul. 
-* **Development**: Amazon Alexa, Golang, Bash, Python, Monkey
+* **Development**: K8s Operators, Amazon Alexa, Golang, Bash, Python, Monkey
 C, GRPC, Avro, RestAPI, ProfoBuffer, Distributed Architectures,
 KAFKA, Testing, ATDD, TDD, BDD, CQRS, Event sourcing.
 * **Databases**: Mysql, PostgreSQL, MongoDB, Cassandra, ETCD,
@@ -55,6 +55,15 @@ Chain, UTM Cisco.
 ### Principal Software Engineer (Mar 2021 - Present) - Full Remote
 
 - I'm working as a Principal Software Engineer at the Engineering team in several projects like Assisted Installer, Advanced Cluster Management into Openshift ecosystem to offer new products to Telco service providers and customers.
+- K8s operator Integration project to join ACM policies with Latency Checks using a Kubernetes Operator in order to ckeck the latency between different locations in a workload (https://github.com/RHsyseng/ddosify-tooling)
+- ZTPFW project in order to create a zero touch provisioning deployment of SNO (Edge) and Openshift clusters to make it available to be relocatable in the partner/customer site without any manual action (https://github.com/rh-ecosystem-edge/ztp-pipeline-relocatable)
+- CLIZTPFW project to create a golang CLI in order to be used by the ZTPFW project directly
+- LABIndex integration scenarios to make some internal integration reducing the time to tests the customer/partner use cases (https://github.com/alknopfler/labs-index)
+- TidyMirror is a small tidy mirror featured for disconnected openshift environment to maximize the performance during the mirror step (https://github.com/alknopfler/tidy-mirror)
+- Tasty project contribution to make it re-usable in a library way (https://github.com/karmab/tasty)
+- Pull secret validator in order to validate some temporal internal development pull secrets
+- GPU/DPU project to make it secure using SZTP implementation client/Server (https://github.com/opiproject/sztp)
+- Small contributions to upstream projects like oc-mirror, microshift...
 
 ### **X by Orange**
 ### Cloud Architect Lead (Mar 2018 - Mar 2021) - Madrid (Spain)
