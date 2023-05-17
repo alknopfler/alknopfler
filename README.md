@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Morgante Medina (alknopfler)</h1>
 <h3 align="center">I'm an engineer passionate about cloud, development and new technologies. I'm always looking for new challenges in order to improve myself everyday!!!</h3>
 
-- 👨‍ I'm working as a Principal Software Engineer at @Red Hat 
+- 👨‍ I'm working as a Senior Telco Edge Software Engineer at @Suse 
 
 - 👨‍💻 All of my projects are available at [https://github.com/alknopfler](https://github.com/alknopfler)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **alknopfler@gmail.com**
 
-- 📝 My Resume online (CV): **[Alberto Morgante Medina - Resume - CV](https://github.com/alknopfler/alknopfler/blob/master/resume.md)**
+- 📝 My Resume online (CV): **[Alberto Morgante Medina - Resume - CV](https://alknopfler.github.io/resume/)**
 
 - ⚡ Hobbies: **Hockey (ice, inline) and Play Music**
 
