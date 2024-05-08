@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Morgante Medina (alknopfler)</h1>
 <h3 align="center">I'm an engineer passionate about cloud, development and new technologies. I'm always looking for new challenges in order to improve myself everyday!!!</h3>
 
-- 👨‍ I'm working as a Senior Telco Edge Software Engineer at @Suse 
+- 👨‍ I'm working as a Principal Telco Edge Engineer at @SUSE
 
 - 👨‍💻 All of my projects are available at [https://github.com/alknopfler](https://github.com/alknopfler)
 
