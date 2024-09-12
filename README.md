@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Morgante Medina (alknopfler)</h1>
-<h3 align="center">I'm an engineer passionate about cloud, development and new technologies. I'm always looking for new challenges in order to improve myself everyday!!!</h3>
+<h3 align="center">I'm an engineer passionate about cloud, development and new technologies. I'm always looking for new challenges in order to improve myself everyday!!! Never give up!!! </h3>
 
 - 👨‍ I'm working as a Principal Telco Edge Engineer at @SUSE
 
