@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alknopfler](https://github.com/alknopfler)
 
-- 📝 I regularly write articles on: [https://alknopfler.github.io](https://alknopfler.github.io)
+- 📝 I regularly write articles on: [https://technology.amorgante.es](https://technology.amorgante.es)
 
 - 📫 How to reach me: **alknopfler@gmail.com**
 
